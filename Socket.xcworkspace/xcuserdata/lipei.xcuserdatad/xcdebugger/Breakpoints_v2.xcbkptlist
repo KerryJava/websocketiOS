@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SocketRocket/SocketRocket/SRWebSocket.m"
+            timestampString = "525173271.32392"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "836"
+            endingLineNumber = "836"
+            landmarkName = "-_handleMessage:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SocketRocket/SocketRocket/SRWebSocket.m"
+            timestampString = "525173788.330074"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "835"
+            endingLineNumber = "835"
+            landmarkName = "-_handleMessage:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SRWebSocket _handleMessage:]"
+                  moduleName = "SocketRocket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lipei/Downloads/project/Socket/Pods/SocketRocket/SocketRocket/SRWebSocket.m"
+                  timestampString = "525175668.202399"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "835"
+                  endingLineNumber = "835"
+                  offsetFromSymbolStart = "81">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__30-[SRWebSocket _handleMessage:]_block_invoke"
+                  moduleName = "SocketRocket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lipei/Downloads/project/Socket/Pods/SocketRocket/SocketRocket/SRWebSocket.m"
+                  timestampString = "525175668.205465"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "835"
+                  endingLineNumber = "835"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SocketRocket/SocketRocket/SRWebSocket.m"
+            timestampString = "525174814.196947"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "837"
+            endingLineNumber = "837"
+            landmarkName = "-_handleMessage:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__30-[SRWebSocket _handleMessage:]_block_invoke"
+                  moduleName = "SocketRocket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lipei/Downloads/project/Socket/Pods/SocketRocket/SocketRocket/SRWebSocket.m"
+                  timestampString = "525175668.220759"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "837"
+                  endingLineNumber = "837"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_.345"
+                  moduleName = "SocketRocket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lipei/Downloads/project/Socket/Pods/SocketRocket/SocketRocket/SRWebSocket.m"
+                  timestampString = "525175668.223916"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "837"
+                  endingLineNumber = "837"
+                  offsetFromSymbolStart = "105">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.346"
+                  moduleName = "SocketRocket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lipei/Downloads/project/Socket/Pods/SocketRocket/SocketRocket/SRWebSocket.m"
+                  timestampString = "525175668.227286"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "837"
+                  endingLineNumber = "837"
+                  offsetFromSymbolStart = "59">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Socket/vendor/TCViewController.m"
+            timestampString = "525775205.670552"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "-webSocket:didReceiveMessage:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
